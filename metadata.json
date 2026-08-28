@@ -1,0 +1,6 @@
+{
+  "name": "Bright Path",
+  "description": "Gençler için din, ahlak ve değerler eğitimi soru-cevap ve etkileşimli öğrenme platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
